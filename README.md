@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Arka Mukhopadhyay</h1>
+<h1 align="center">Hey There👋</h1>
 <h3 align="center">A developer trying to Automate things with code</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arka-mukhopadhyay" alt="arka-mukhopadhyay" /></a> </p>
